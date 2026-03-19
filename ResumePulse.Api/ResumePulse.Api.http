@@ -1,0 +1,6 @@
+@ResumePulse_Api_HostAddress = http://localhost:5266
+
+GET {{ResumePulse_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

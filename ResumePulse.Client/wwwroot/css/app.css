@@ -1,0 +1,36 @@
+html,
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f8f9fa;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+}
+
+.hero-section h1,
+.hero-section p {
+  color: white !important;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 8px;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #5a6fd6 0%, #6a4292 100%);
+  border: none;
+}
+
+.badge {
+  border-radius: 20px;
+}
